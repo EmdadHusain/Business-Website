@@ -308,6 +308,9 @@ textarea:focus {
   background: #8fdd9a;
 }
 
+.main-menu ul ul ul ul li:hover {
+  background: #1e0e8e54;
+}
 .main-menu ul ul ul li:hover {
   background: #4e83a3;
 }
